@@ -10,7 +10,9 @@ rating: 4.5
 
 **Overview** <br/>
 Thị giác máy tính được dùng để nghiên cứu ,thiết kế , tính toán xử lý hình ảnh. Để làm được như vậy thường sử dụng máy học .Nói cách khác Thị giác máy tính là một lĩnh vực được nghiên cứu phát triển các kỹ thuật để máy tính có thể nhìn thấy và hiểu nội dung của hình ảnh kỹ thuật số như ảnh và video<br/>
+<center>
 ![enter image description here](https://miro.medium.com/max/700/1*mm4Ph4YSlEVTSN2znvU1pg.jpeg) <br/>
+</center>
 Một vấn đề chưa được giải quyết của thị giác máy tính là vấn đề về hạn chế tầm nhìn sinh học và sự vấn động ,phát triển phức tạp của thế giới
 
 ##  Thị giác máy tính là gì ? <br/>

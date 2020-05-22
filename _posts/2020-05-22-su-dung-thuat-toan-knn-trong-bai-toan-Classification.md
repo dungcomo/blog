@@ -76,11 +76,12 @@ print("nearest with:",format(nearest))
 print("distance :",format(distance))
 
 ```
-Xét với trường hợp k = 3 ta có kết quả sau
-target to predict : [[38. 3.]]
-result target to predict : [[1.]]
-nearest with : [[1. 0. 1.]]
-distance is : [[ 20. 362. 392.]]
+Xét với trường hợp k = 3 ta có kết quả sau:
+- target to predict : [[38. 3.]]
+- result target to predict : [[1.]]
+- nearest with : [[1. 0. 1.]]
+- distance is : [[ 20. 362. 392.]]
+<br/>
 kết quả đúng với quan sát thực tế trên đồ thị
 
 > Lưu ý : nên xét các trường hợp k lẻ thì thuật toán sẽ dễ dàng giải quyết hơn

@@ -9,14 +9,14 @@ rating: 4.5
 ---
 
 **Overview** <br/>
-Thị giác máy tính được dùng để nghiên cứu ,thiết kế , tính toán xử lý hình ảnh. Để làm được như vậy thường sử dụng máy học .Nói cách khác Thị giác máy tính là một lĩnh vực được nghiên cứu phát triển các kỹ thuật để máy tính có thể nhìn thấy và hiểu nội dung của hình ảnh kỹ thuật số như ảnh và video
-![enter image description here](https://miro.medium.com/max/700/1*mm4Ph4YSlEVTSN2znvU1pg.jpeg)
+Thị giác máy tính được dùng để nghiên cứu ,thiết kế , tính toán xử lý hình ảnh. Để làm được như vậy thường sử dụng máy học .Nói cách khác Thị giác máy tính là một lĩnh vực được nghiên cứu phát triển các kỹ thuật để máy tính có thể nhìn thấy và hiểu nội dung của hình ảnh kỹ thuật số như ảnh và video<br/>
+![enter image description here](https://miro.medium.com/max/700/1*mm4Ph4YSlEVTSN2znvU1pg.jpeg) <br/>
 Một vấn đề chưa được giải quyết của thị giác máy tính là vấn đề về hạn chế tầm nhìn sinh học và sự vấn động ,phát triển phức tạp của thế giới
 
-##  Thị giác máy tính là gì ?
-Ở mức độ nào đó , thị giác máy tính dùng những hình ảnh mà nó quan sát được để suy luận điều gì đó về thế giới
-![enter image description here](https://miro.medium.com/max/365/1*AxHTaOiHA2rb5Q2XdHzYGw.png)
-(Mối quan hệ giữa AI,ML,CV)
+##  Thị giác máy tính là gì ? <br/>
+Ở mức độ nào đó , thị giác máy tính dùng những hình ảnh mà nó quan sát được để suy luận điều gì đó về thế giới <br/>
+![enter image description here](https://miro.medium.com/max/365/1*AxHTaOiHA2rb5Q2XdHzYGw.png) <br/>
+(Mối quan hệ giữa AI,ML,CV) <br/>
 _Lưu ý : Thị giác máy tính khác với xử lý ảnh_
 
 Xử lý hình ảnh (Image processing) là quá trình tạo ra một hình ảnh mới từ hình ảnh đã có , thường tối ưu hóa hoặc nâng cao nội dung của bức ảnh theo một cách nào đó . Nó là một loại xử lý tín hiệu số và không liên quan đến việc hiểu nội dung của hình ảnh
@@ -47,11 +47,11 @@ Nhận dạng ký tự quang học ORC( Optical Character Recognition) là một
 
 Bộ dữ liệu viết tay của scikit-learning chứa hình ảnh thang độ sám (Grayscale) của hơn 1700 chữ viết tay với các số từ 0 đến 9 .Mỗi bức ảnh có 8 pixels ở mỗi bên. Mỗi pixels được biểu thị giá trị cường độ từ 0 đến 16 , trắng là cường độ cao nhất biểu thị mức 0, đen là cường độ thấp nhất biểu thị mức 16
 
-![enter image description here](https://miro.medium.com/max/323/1*t9CwRfSyRjp4Q7Y0MBNoCw.png)
+![enter image description here](https://miro.medium.com/max/323/1*t9CwRfSyRjp4Q7Y0MBNoCw.png)<br/>
 (Hình ảnh biểu diễn số 0)
 
 Bây giờ chúng ta sẽ thực hiện một số hàm trên scikit-learn để hiểu rõ vấn đề
-![hình ảnh đã được chuyển sang ma trận 8x8](https://miro.medium.com/max/424/1*je7IjOo1JdqPrZjq1TD0Yw.png)
+![hình ảnh đã được chuyển sang ma trận 8x8](https://miro.medium.com/max/424/1*je7IjOo1JdqPrZjq1TD0Yw.png)<br/>
 (Hình ảnh đã được chuyển sang ma trận 8x8)
 Phép biểu diễn bằng ma trân trên chỉ có có thể thực hiện một số công việc cơ bản, như nhận diện ký tự . Tuy nhiên với một hình ảnh có pixels lớn thì đồng nghĩa với việc sẽ có một ma trận có kích thước lớn dẫn đến một vector đặc trưng cũng sẽ có kích thước lớn
 

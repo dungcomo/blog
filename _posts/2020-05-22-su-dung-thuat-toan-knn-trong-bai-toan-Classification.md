@@ -7,6 +7,7 @@ tags: [ Machine learning ]
 image: assets/images/machine-learning-840x430.png
 rating: 4.5
 ---
+Một thuật toán kinh điển trong bài toán Classification
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
+name: "HoanDo."
+title: "Pea"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: sieunhannhenkutesn@gmail.com
 
 # Authors
 authors:
@@ -31,7 +31,16 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+  hoando:
+    name: hoando
+    display_name: HoanDo.    
+    avatar: 'assets/images/hoandoavt.jpg'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: sieunhannhenkutesn@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    facebook : https://www.facebook.com/scriptkid23/
+    description: " I like me better"
 # Plugins
 plugins:
   - jekyll-paginate

@@ -14,5 +14,18 @@ Chỉ với vài thao tác dễ dàng, bạn đã có cho mình một con BotCha
 - Một tài khoản facebook đã bất xác thực 2 yếu tố 
 - Một tài khoản https://dialogflow.com/ để đào tạo bot
 
-### Bước 1 : Tự tạo BotChat của riêng mình 
+### Bắt đầu 
 
+Đầu tiên chúng ta sẽ truy cập website [make  botchat](https://make-botchat.herokuapp.com/)
+<br/>
+Ta sẽ thấy các tham số 
+```
+- Email Address : là tên tài khoản đăng nhập vào facebook
+- Password : là mật khẩu đăng nhập vào facebook
+- Pin : là mã xác thực 2 yếu tố của facebook
+- Token : 6cf2e7f90d5e4f56bc3bfc988158d35d
+```
+Bước cuối cùng nhấn Confirm, như vậy là ta đã tạo được một con bot cá nhân 
+Để tìm hiểu mã Token được lấy ở đâu các bạn hãy đọc bài viết 
+<br/>
+Hưỡng dẫn tạo botchat sử dụng dialogflow

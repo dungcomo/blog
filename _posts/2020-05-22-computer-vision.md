@@ -52,7 +52,7 @@ Bộ dữ liệu viết tay của scikit-learning chứa hình ảnh thang độ
 
 Bây giờ chúng ta sẽ thực hiện một số hàm trên scikit-learn để hiểu rõ vấn đề
 ![hình ảnh đã được chuyển sang ma trận 8x8](https://miro.medium.com/max/424/1*je7IjOo1JdqPrZjq1TD0Yw.png)<br/>
-(Hình ảnh đã được chuyển sang ma trận 8x8)
+(Hình ảnh đã được chuyển sang ma trận 8x8)<br/>
 Phép biểu diễn bằng ma trân trên chỉ có có thể thực hiện một số công việc cơ bản, như nhận diện ký tự . Tuy nhiên với một hình ảnh có pixels lớn thì đồng nghĩa với việc sẽ có một ma trận có kích thước lớn dẫn đến một vector đặc trưng cũng sẽ có kích thước lớn
 
 Ví dụ : một hình ảnh thang độ xám có kích thước 100x100 sẽ cho chúng ra vector đặc trưng 10000 chiều

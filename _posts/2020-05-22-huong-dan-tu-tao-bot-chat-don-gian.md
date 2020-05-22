@@ -9,6 +9,7 @@ rating: 4.5
 ---
 Chỉ với vài thao tác dễ dàng, bạn đã có cho mình một con BotChat 
 
+
 ### Chuẩn bị
 - Một tài khoản facebook đã bất xác thực 2 yếu tố 
 - Một tài khoản https://dialogflow.com/ để đào tạo bot

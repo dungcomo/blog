@@ -12,10 +12,8 @@ Chỉ với vài thao tác dễ dàng, bạn đã có cho mình một con BotCha
 
 ### Chuẩn bị
 - Một tài khoản facebook đã bất xác thực 2 yếu tố 
-- Một tài khoản https://dialogflow.com/ để đào tạo bot
 
 ### Bắt đầu 
-
 Đầu tiên chúng ta sẽ truy cập website [make  botchat](https://make-botchat.herokuapp.com/)
 <br/>
 Ta sẽ thấy các tham số 

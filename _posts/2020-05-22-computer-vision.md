@@ -10,15 +10,20 @@ rating: 4.5
 
 **Overview** <br/>
 Thị giác máy tính được dùng để nghiên cứu ,thiết kế , tính toán xử lý hình ảnh. Để làm được như vậy thường sử dụng máy học .Nói cách khác Thị giác máy tính là một lĩnh vực được nghiên cứu phát triển các kỹ thuật để máy tính có thể nhìn thấy và hiểu nội dung của hình ảnh kỹ thuật số như ảnh và video<br/>
-<center>
-![enter image description here](https://miro.medium.com/max/700/1*mm4Ph4YSlEVTSN2znvU1pg.jpeg) <br/>
-</center>
+
+<div align="center">
+    <img src="https://miro.medium.com/max/700/1*mm4Ph4YSlEVTSN2znvU1pg.jpeg" >
+</div>
 Một vấn đề chưa được giải quyết của thị giác máy tính là vấn đề về hạn chế tầm nhìn sinh học và sự vấn động ,phát triển phức tạp của thế giới
 
 ##  Thị giác máy tính là gì ? <br/>
 Ở mức độ nào đó , thị giác máy tính dùng những hình ảnh mà nó quan sát được để suy luận điều gì đó về thế giới <br/>
-![enter image description here](https://miro.medium.com/max/365/1*AxHTaOiHA2rb5Q2XdHzYGw.png) <br/>
-(Mối quan hệ giữa AI,ML,CV) <br/>
+
+<div align="center">
+    <img src="https://miro.medium.com/max/365/1*AxHTaOiHA2rb5Q2XdHzYGw.png" >
+    <p>(Mối quan hệ giữa AI,ML,CV)</p>
+</div>
+
 _Lưu ý : Thị giác máy tính khác với xử lý ảnh_
 
 Xử lý hình ảnh (Image processing) là quá trình tạo ra một hình ảnh mới từ hình ảnh đã có , thường tối ưu hóa hoặc nâng cao nội dung của bức ảnh theo một cách nào đó . Nó là một loại xử lý tín hiệu số và không liên quan đến việc hiểu nội dung của hình ảnh
